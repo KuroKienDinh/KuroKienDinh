@@ -1,11 +1,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kien-kuro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/kien-kuro/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; margin-right: 20px;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo">
+    <span style="font-size: 16px; margin-left: 8px;">LinkedIn</span>
   </a>
-  <a href="tadinhkien194@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:tadinhkien194@gmail.com" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="Gmail Logo">
+    <span style="font-size: 16px; margin-left: 8px;">Email</span>
   </a>
 </div>
 
