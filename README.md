@@ -1,14 +1,17 @@
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kien-kuro/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; margin-right: 20px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo">
-    <span style="font-size: 16px; margin-left: 8px;">LinkedIn</span>
-  </a>
-  <a href="mailto:tadinhkien194@gmail.com" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="Gmail Logo">
-    <span style="font-size: 16px; margin-left: 8px;">Email</span>
-  </a>
+<div align="left">
+  <p><strong>Contact for work:</strong></p>
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li style="margin-bottom: 10px;">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="25" style="vertical-align: middle;">
+      <a href="https://www.linkedin.com/in/kien-kuro/" target="_blank" style="vertical-align: middle; margin-left: 8px;">LinkedIn</a>
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" width="20" height="20" style="vertical-align: middle;">
+      <a href="mailto:tadinhkien194@gmail.com" target="_blank" style="vertical-align: middle; margin-left: 8px;">Gmail</a>
+    </li>
+  </ul>
 </div>
 
 ###
