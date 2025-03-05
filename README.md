@@ -1,18 +1,18 @@
 ###
 
-<div align="left">
-  <p><strong>👉 Contact for work:</strong></p>
-  <ul style="list-style-type: none; padding: 0; margin: 0;">
-    <li style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="25">
-      <a href="https://www.linkedin.com/in/kien-kuro/" target="_blank">Dinh Kien</a>
-    </li>
-    <li style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" width="20" height="20">
-      <a href="mailto:tadinhkien194@gmail.com" target="_blank">tadinhkien194@gmail.com</a>
-    </li>
-  </ul>
+<div style="display: flex; align-items: flex-start;">
+  <!-- Left Column: Icons -->
+  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="25">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" width="20" height="20">
+  </div>
+  <!-- Right Column: Text Rows -->
+  <div style="display: flex; flex-direction: column; justify-content: center;">
+    <a href="https://www.linkedin.com/in/kien-kuro/" target="_blank">Dinh Kien</a>
+    <a href="mailto:tadinhkien194@gmail.com" target="_blank">tadinhkien194@gmail.com</a>
+  </div>
 </div>
+
 
 ###
 
