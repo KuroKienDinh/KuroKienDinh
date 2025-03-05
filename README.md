@@ -1,19 +1,9 @@
-<div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1tIv2QOEYbG4NBofHpsl4-mT9XRqTUwJY/view?usp=sharing"  />
-</div>
-
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kien-kuro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tadinhkien99.tadinhkien99&"  />
 </div>
 
 ###
