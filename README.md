@@ -57,9 +57,3 @@
 <h3 align="left">🔥   My Stats :<br> - Experience: 5+ years in AI Engineering<br> - Projects: 100+ successful personal and freelance projects<br> - Expertise: Specializing in machine learning, deep learning, and python backend<br> - Freelance: Delivering innovative solutions for diverse clients</h3>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tadinhkien99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
